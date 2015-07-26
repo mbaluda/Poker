@@ -1,0 +1,5 @@
+This project is meant as an exercise in formal specification of software systems.
+
+The system compares two poker hands and determine the winner.
+
+The implementation includes a complete formal specification that is checked dynamically in the spirit of Design by Contract.
